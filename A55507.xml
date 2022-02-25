@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Tangier to a friend in London describing the causes, manner and time of the demolishing of Tangier, November the fifth, in the year 1683.</title>
+            <author>Poseley, M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55507</idno>
+            <idno type="STC">Wing P3010</idno>
+            <idno type="STC">ESTC R8893</idno>
+            <idno type="EEBO-CITATION">13739148</idno>
+            <idno type="OCLC">ocm 13739148</idno>
+            <idno type="VID">101651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101651)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Tangier to a friend in London describing the causes, manner and time of the demolishing of Tangier, November the fifth, in the year 1683.</title>
+                  <author>Poseley, M.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: M. Poseley.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tangier (Morocco) --  History --  Sources.</term>
+               <term>Morocco --  History --  1516-1830 --  Sources.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:101651:1" rendition="simple:additions"/>
+            <head>A LETTER From TANGIER, To a Friend in LONDON. Deſcribing the Cauſes, Manner and Time, of the Demoliſhing of <hi>TANGIER, November</hi> the Fifth, in the Year 1683.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis is the laſt Letter you muſt expect from this Place, where I have continued ever ſince the laſt Detachment from the Regiments of Guards in <hi>London.</hi> I have not fail'd to give you the beſt Account I cou'd, from time to time, of our ſeveral Engagements with the <hi>Moores,</hi> and their Daily Incurſions upon us. Since the laſt Ambaſſadour, <hi>Ben Had<g ref="char:EOLhyphen"/>du Otter,</hi> went over from hence into <hi>England,</hi> we Enjoy'd ſome Liberty of Traffick and Commerce amongſt 'em. But ſince his Return from thence, the Treacherous <hi>Moores</hi> falling from the Traffick and Articles of the Peace propoſed in <hi>England,</hi> they be<g ref="char:EOLhyphen"/>gan to Renew their old Pranks, appearing in Parties within view of the Gariſon, driving their Cattle within a Mile of <hi>Charles</hi>'s Fort, to tempt out the Soldiers to the Booty, where theſe Devils, like ſo many Rabbits cover'd in the Sands, or ſo many Snakes and Poiſon'd Adders, underneath the long Graſs, with their Venomous Darts, ſpitting Fire at their Mouths, lay in Ambuſcade ready to Devour us.</p>
+            <p>Our Noble and Valiant Governour, Colonel <hi>Kirk,</hi> finding they began to Renew their old Cheat, made Complaint to the Ambaſ<g ref="char:EOLhyphen"/>ſadour at <hi>Feſs,</hi> upon which an Interview was appointed, between the <hi>Alcade of Feſs,</hi> and the Governour, to continue the Peace, but the Governour did not think it ſafe to venture his Perſon any more amongſt them, finding them ſo uncertain, and forward to Renew their old Inſolencies.</p>
+            <p>This taking no Effect, (to prevent further Blood-ſhed,) it was Conſulted about the Demoliſhing of <hi>Tangier,</hi> as the beſt Expedient to ſave His Majeſty the Expence of Lives and Money. While this was Debated by His Majeſty and Council, in <hi>England,</hi> our Prayers were, that it might take Effect, and that we might rather Live to ſee <hi>Tangier</hi> in a Fire, then not to ſee our own Country; for there are
+<pb facs="tcp:101651:2" rendition="simple:additions"/>
+but few of us here, but had rather ſee a Roaſt <hi>Capon,</hi> or <hi>Pigg,</hi> in <hi>Smithfield,</hi> then the beſt Booty in <hi>Affrica.</hi> All the Talk, and all our Hopes, was, That <hi>Tangier</hi> that coſt us ſo Dear, ſhould be De<g ref="char:EOLhyphen"/>moliſhed; when according to our Wiſh<g ref="char:punc">▪</g> on the Third of <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> Arrived here the Right Honourable the Lord <hi>Dartmouth,</hi> with his Fleet, who was ſo well Entertain'd by the Town, that what be<g ref="char:EOLhyphen"/>tween our Bonfires, and great Shot, you would think our <hi>Troy</hi> was in a Flame already.</p>
+            <p>The next Day being Entertain'd very Splendidly by the Gover<g ref="char:EOLhyphen"/>nour. All the Town being Summon'd together, he ſignified His Majeſties Pleaſure, in a moſt Learned and Comfortable Speech, for the Demoliſhing of <hi>Tangier;</hi> That none ſhou'd ſuſtain Loſs there<g ref="char:EOLhyphen"/>by, but that every one that had any Houſes or Tenements there, according to the Value, they ſhou'd (being certified by the Com<g ref="char:EOLhyphen"/>miſſionors appointed for that uſe,) have Repriſals made in <hi>England.</hi> I cannot tell whether our Canon the Day before, or our Shouts to Day, made the greater Noiſe. Every one was pleas'd with the Change, but more with the Repriſals, being gladder to have the Liberty of a Subject, and a free Eſtate in <hi>England,</hi> then an old Muſty Priſon, or Hoſpital, in <hi>Tangier.</hi> I wiſh mine wou'd fall in <hi>Whigland-Square,</hi> for the convenience of my Wife and Children. It is impoſſible to Expreſs our Joys, which continued all that Night with Bumpers and Bonfires, the Canons playing in the Air, like Rockets, and the Foot-Soldiers with their Muskets, were our Squibs and Serpents. The Bells rung themſelves out of the Steeples, you could not hear above Two in all the Town. They had hardly patience to ſtay till next Morning, when all Hands went to work up<g ref="char:EOLhyphen"/>on the Mold, which came up much faſter then it went on, and with leſs Charges, being Blown up from the very Foundation. Then we fell to work with the Houſes on the upper End of the Town, next the Town-Wall, having Removed the People, with their Goods and Moveables, on Ship-board.</p>
+            <p>When this part of the Town was Blown up, there was a Party of the <hi>Moores,</hi> about Ten Thouſand, within Two Miles of the Walls, which were totally Rout<g ref="char:EOLhyphen"/>ed, by the ſtrangeneſs of the Surprize. They run Seven Miles forward, as if Hell had burſt open, and the Devil himſelf had been at their Heels, before they look'd about, either Horſe or Man; for, either ſome of the Stones or Timber fell a<g ref="char:EOLhyphen"/>mongſt them, or the greatneſs of the Noiſe, Scar'd them away; there has not one of them ſince appear'd within view of the Garriſon. We have had by this means, time to ſelect and gather all the beſt of our Stone and Timber, or any thing that is worth preſerving, which we have Sold to the <hi>Spaniards</hi> on the other ſide of the <hi>Streights.</hi> We are now Undermineing the outward Walls, the Caſtle and Cittadel, which the Governour has Ordered to be Blown up all together, on the Fifth of <hi>November,</hi> for one ſolemn Bonfire. But of this I ſhall give you the Account upon my Arrival there, which Happineſs to ſee <hi>England</hi> once more, is ſo much Deſired by</p>
+            <closer>
+               <signed>Your Loving Friend, to ſee you, M. Poſeley.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Smith.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
